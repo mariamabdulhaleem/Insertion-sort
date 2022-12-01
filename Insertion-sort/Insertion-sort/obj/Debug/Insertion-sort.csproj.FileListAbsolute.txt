@@ -1,0 +1,8 @@
+D:\3rd_year\first_term\Algorithm\Insertion-sort\Insertion-sort\bin\Debug\Insertion-sort.exe.config
+D:\3rd_year\first_term\Algorithm\Insertion-sort\Insertion-sort\bin\Debug\Insertion-sort.exe
+D:\3rd_year\first_term\Algorithm\Insertion-sort\Insertion-sort\bin\Debug\Insertion-sort.pdb
+D:\3rd_year\first_term\Algorithm\Insertion-sort\Insertion-sort\obj\Debug\Insertion-sort.csproj.AssemblyReference.cache
+D:\3rd_year\first_term\Algorithm\Insertion-sort\Insertion-sort\obj\Debug\Insertion-sort.csproj.SuggestedBindingRedirects.cache
+D:\3rd_year\first_term\Algorithm\Insertion-sort\Insertion-sort\obj\Debug\Insertion-sort.csproj.CoreCompileInputs.cache
+D:\3rd_year\first_term\Algorithm\Insertion-sort\Insertion-sort\obj\Debug\Insertion-sort.exe
+D:\3rd_year\first_term\Algorithm\Insertion-sort\Insertion-sort\obj\Debug\Insertion-sort.pdb
